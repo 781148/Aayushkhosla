@@ -1,0 +1,8 @@
+title: Aayush Khosla
+description: An aspiring cricketer with a passion for tech and innovation.
+theme: jekyll-theme-minimal
+nav:
+  - name: Home
+    href: /
+  - name: Projects
+    href: /projects
